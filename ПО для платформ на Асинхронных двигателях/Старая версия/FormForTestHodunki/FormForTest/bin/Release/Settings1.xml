@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kren_max>9.31</Kren_max>
+  <Kren_min>-9.31</Kren_min>
+  <Tangag_max>10.72</Tangag_max>
+  <Tangag_min>-10.72</Tangag_min>
+  <MaxSpeed_deviation>7</MaxSpeed_deviation>
+  <MaxSpeed_move>5</MaxSpeed_move>
+  <Speed_centering>5</Speed_centering>
+</Settings>

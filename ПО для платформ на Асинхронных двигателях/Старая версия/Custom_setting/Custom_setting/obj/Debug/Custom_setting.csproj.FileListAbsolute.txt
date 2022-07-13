@@ -1,0 +1,27 @@
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Custom_setting\Custom_setting\bin\Debug\Custom_setting.exe.config
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Custom_setting\Custom_setting\bin\Debug\Custom_setting.exe
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Custom_setting\Custom_setting\bin\Debug\Custom_setting.pdb
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Custom_setting\Custom_setting\obj\Debug\Custom_setting.csprojResolveAssemblyReference.cache
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Custom_setting\Custom_setting\obj\Debug\Custom_setting.Form1.resources
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Custom_setting\Custom_setting\obj\Debug\Custom_setting.Properties.Resources.resources
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Custom_setting\Custom_setting\obj\Debug\Custom_setting.csproj.GenerateResource.Cache
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Custom_setting\Custom_setting\obj\Debug\Custom_setting.exe
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Custom_setting\Custom_setting\obj\Debug\Custom_setting.pdb
+E:\Ходунки\Custom_setting\Custom_setting\bin\Debug\Custom_setting.exe.config
+E:\Ходунки\Custom_setting\Custom_setting\obj\Debug\Custom_setting.exe
+E:\Ходунки\Custom_setting\Custom_setting\obj\Debug\Custom_setting.pdb
+E:\Ходунки\Custom_setting\Custom_setting\bin\Debug\Custom_setting.exe
+E:\Ходунки\Custom_setting\Custom_setting\bin\Debug\Custom_setting.pdb
+E:\Ходунки\Custom_setting\Custom_setting\obj\Debug\Custom_setting.csprojResolveAssemblyReference.cache
+E:\Ходунки\Custom_setting\Custom_setting\obj\Debug\Custom_setting.Form1.resources
+E:\Ходунки\Custom_setting\Custom_setting\obj\Debug\Custom_setting.Properties.Resources.resources
+E:\Ходунки\Custom_setting\Custom_setting\obj\Debug\Custom_setting.csproj.GenerateResource.Cache
+D:\Ходунки\С компа\Custom_setting\Custom_setting\bin\Debug\Custom_setting.exe.config
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Debug\Custom_setting.exe
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Debug\Custom_setting.pdb
+D:\Ходунки\С компа\Custom_setting\Custom_setting\bin\Debug\Custom_setting.exe
+D:\Ходунки\С компа\Custom_setting\Custom_setting\bin\Debug\Custom_setting.pdb
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Debug\Custom_setting.csprojResolveAssemblyReference.cache
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Debug\Custom_setting.Form1.resources
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Debug\Custom_setting.Properties.Resources.resources
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Debug\Custom_setting.csproj.GenerateResource.Cache

@@ -1,0 +1,57 @@
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\FormForTest\FormForTest\bin\Debug\FormForTest.exe.config
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\FormForTest\FormForTest\obj\Debug\FormForTest.csprojResolveAssemblyReference.cache
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\FormForTest\FormForTest\obj\Debug\SD.Properties.Resources.resources
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\FormForTest\FormForTest\obj\Debug\FormForTest.csproj.GenerateResource.Cache
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\FormForTest\FormForTest\bin\Debug\FormForTest.exe
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\FormForTest\FormForTest\bin\Debug\FormForTest.pdb
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\FormForTest\FormForTest\obj\Debug\FormForTest.exe
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\FormForTest\FormForTest\obj\Debug\FormForTest.pdb
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\FormForTest\FormForTest\obj\Debug\FormForTest.Form1.resources
+E:\Ходунки\FormForTest\FormForTest\bin\Debug\FormForTest.exe.config
+E:\Ходунки\FormForTest\FormForTest\obj\Debug\FormForTest.exe
+E:\Ходунки\FormForTest\FormForTest\obj\Debug\FormForTest.pdb
+E:\Ходунки\FormForTest\FormForTest\bin\Debug\FormForTest.exe
+E:\Ходунки\FormForTest\FormForTest\bin\Debug\FormForTest.pdb
+E:\Ходунки\FormForTest\FormForTest\obj\Debug\FormForTest.csprojResolveAssemblyReference.cache
+E:\Ходунки\FormForTest\FormForTest\obj\Debug\FormForTest.Form1.resources
+E:\Ходунки\FormForTest\FormForTest\obj\Debug\SD.Properties.Resources.resources
+E:\Ходунки\FormForTest\FormForTest\obj\Debug\FormForTest.csproj.GenerateResource.Cache
+E:\Ходунки\FormForTest\FormForTest\bin\Debug\FormForTest.XML
+E:\Ходунки\FormForTest\FormForTest\bin\Debug\PL_move.dll
+E:\Ходунки\FormForTest\FormForTest\bin\Debug\PL_move.pdb
+D:\Ходунки\С компа\FormForTest\FormForTest\bin\Debug\FormForTest.exe.config
+D:\Ходунки\С компа\FormForTest\FormForTest\bin\Debug\FormForTest.XML
+D:\Ходунки\С компа\FormForTest\FormForTest\obj\Debug\FormForTest.exe
+D:\Ходунки\С компа\FormForTest\FormForTest\obj\Debug\FormForTest.pdb
+D:\Ходунки\С компа\FormForTest\FormForTest\bin\Debug\FormForTest.exe
+D:\Ходунки\С компа\FormForTest\FormForTest\bin\Debug\FormForTest.pdb
+D:\Ходунки\С компа\FormForTest\FormForTest\obj\Debug\FormForTest.csprojResolveAssemblyReference.cache
+D:\Ходунки\С компа\FormForTest\FormForTest\obj\Debug\FormForTest.Form1.resources
+D:\Ходунки\С компа\FormForTest\FormForTest\obj\Debug\SD.Properties.Resources.resources
+D:\Ходунки\С компа\FormForTest\FormForTest\obj\Debug\FormForTest.csproj.GenerateResource.Cache
+F:\Ходунки\С компа\FormForTest\FormForTest\bin\Debug\FormForTest.exe.config
+F:\Ходунки\С компа\FormForTest\FormForTest\bin\Debug\FormForTest.XML
+F:\Ходунки\С компа\FormForTest\FormForTest\obj\Debug\FormForTest.exe
+F:\Ходунки\С компа\FormForTest\FormForTest\obj\Debug\FormForTest.pdb
+F:\Ходунки\С компа\FormForTestHodunki\FormForTest\bin\Debug\FormForTest.exe.config
+F:\Ходунки\С компа\FormForTestHodunki\FormForTest\bin\Debug\FormForTest.XML
+F:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\FormForTest.exe
+F:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\FormForTest.pdb
+F:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\FormForTest.csprojResolveAssemblyReference.cache
+F:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\FormForTest.Form1.resources
+F:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\SD.Properties.Resources.resources
+F:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\FormForTest.csproj.GenerateResource.Cache
+F:\Ходунки\С компа\FormForTestHodunki\FormForTest\bin\Debug\FormForTest.exe
+F:\Ходунки\С компа\FormForTestHodunki\FormForTest\bin\Debug\FormForTest.pdb
+F:\Ходунки\С компа\FormForTestHodunki\FormForTest\bin\Debug\PL_move.dll
+D:\Ходунки\С компа\FormForTestHodunki\FormForTest\bin\Debug\FormForTest.exe.config
+D:\Ходунки\С компа\FormForTestHodunki\FormForTest\bin\Debug\FormForTest.XML
+D:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\FormForTest.exe
+D:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\FormForTest.pdb
+D:\Ходунки\С компа\FormForTestHodunki\FormForTest\bin\Debug\FormForTest.exe
+D:\Ходунки\С компа\FormForTestHodunki\FormForTest\bin\Debug\FormForTest.pdb
+D:\Ходунки\С компа\FormForTestHodunki\FormForTest\bin\Debug\PL_move.dll
+D:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\FormForTest.csprojResolveAssemblyReference.cache
+D:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\FormForTest.Form1.resources
+D:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\SD.Properties.Resources.resources
+D:\Ходунки\С компа\FormForTestHodunki\FormForTest\obj\Debug\FormForTest.csproj.GenerateResource.Cache

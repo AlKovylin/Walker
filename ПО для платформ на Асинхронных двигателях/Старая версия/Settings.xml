@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfSetDevice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SetDevice>
+    <NamePort>COM3</NamePort>
+    <ValueSensor>0</ValueSensor>
+    <Device>Заднего двигателя</Device>
+  </SetDevice>
+  <SetDevice>
+    <NamePort>COM4</NamePort>
+    <ValueSensor>0</ValueSensor>
+    <Device>Левого двигателя</Device>
+  </SetDevice>
+  <SetDevice>
+    <NamePort>COM5</NamePort>
+    <ValueSensor>0</ValueSensor>
+    <Device>Правого двигателя</Device>
+  </SetDevice>
+  <SetDevice>
+    <NamePort>COM6</NamePort>
+    <ValueSensor>0</ValueSensor>
+    <Device>Датчик высоты</Device>
+  </SetDevice>
+  <SetDevice>
+    <NamePort>COM7</NamePort>
+    <ValueSensor>0</ValueSensor>
+    <Device>Датчик направления</Device>
+  </SetDevice>
+</ArrayOfSetDevice>

@@ -1,0 +1,39 @@
+C:\Users\ЧСН\Desktop\Walker\PL_move\bin\Release\PL_move.dll
+C:\Users\ЧСН\Desktop\Walker\PL_move\bin\Release\PL_move.pdb
+C:\Users\ЧСН\Desktop\Walker\PL_move\bin\Release\Mobile_platform.dll
+C:\Users\ЧСН\Desktop\Walker\PL_move\bin\Release\Mobile_platform.pdb
+C:\Users\ЧСН\Desktop\Walker\PL_move\obj\Release\PL_move.csproj.AssemblyReference.cache
+C:\Users\ЧСН\Desktop\Walker\PL_move\obj\Release\PL_move.csproj.CoreCompileInputs.cache
+C:\Users\ЧСН\Desktop\Walker\PL_move\obj\Release\PL_move.csproj.CopyComplete
+C:\Users\ЧСН\Desktop\Walker\PL_move\obj\Release\PL_move.dll
+C:\Users\ЧСН\Desktop\Walker\PL_move\obj\Release\PL_move.pdb
+C:\Users\ЧСН\source\repos\PL_move\bin\Release\PL_move.xml
+C:\Users\ЧСН\source\repos\PL_move\bin\Release\PL_move.dll
+C:\Users\ЧСН\source\repos\PL_move\bin\Release\PL_move.pdb
+C:\Users\ЧСН\source\repos\PL_move\bin\Release\Mobile_platform.dll
+C:\Users\ЧСН\source\repos\PL_move\bin\Release\Mobile_platform.pdb
+C:\Users\ЧСН\source\repos\PL_move\obj\Release\PL_move.csproj.AssemblyReference.cache
+C:\Users\ЧСН\source\repos\PL_move\obj\Release\PL_move.csproj.CoreCompileInputs.cache
+C:\Users\ЧСН\source\repos\PL_move\obj\Release\PL_move.csproj.CopyComplete
+C:\Users\ЧСН\source\repos\PL_move\obj\Release\PL_move.dll
+C:\Users\ЧСН\source\repos\PL_move\obj\Release\PL_move.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\PL_move\bin\Release\PL_move.xml
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\PL_move\bin\Release\PL_move.dll
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\PL_move\bin\Release\PL_move.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\PL_move\bin\Release\Mobile_platform.dll
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\PL_move\bin\Release\Mobile_platform.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\PL_move\obj\Release\PL_move.csproj.AssemblyReference.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\PL_move\obj\Release\PL_move.csproj.CoreCompileInputs.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\PL_move\obj\Release\PL_move.csproj.CopyComplete
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\PL_move\obj\Release\PL_move.dll
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\PL_move\obj\Release\PL_move.pdb
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Белорусских двигателях\PL_move\bin\Release\PL_move.xml
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Белорусских двигателях\PL_move\bin\Release\PL_move.dll
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Белорусских двигателях\PL_move\bin\Release\PL_move.pdb
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Белорусских двигателях\PL_move\bin\Release\Mobile_platform.dll
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Белорусских двигателях\PL_move\bin\Release\Mobile_platform.pdb
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Белорусских двигателях\PL_move\obj\Release\PL_move.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Белорусских двигателях\PL_move\obj\Release\PL_move.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Белорусских двигателях\PL_move\obj\Release\PL_move.csproj.CopyComplete
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Белорусских двигателях\PL_move\obj\Release\PL_move.dll
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Белорусских двигателях\PL_move\obj\Release\PL_move.pdb

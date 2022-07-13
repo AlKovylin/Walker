@@ -1,0 +1,9 @@
+E:\Ходунки\FormForTest\FormForTest\bin\Release\FormForTest.exe.config
+D:\Ходунки\С компа\FormForTest\FormForTest\bin\Release\FormForTest.exe.config
+D:\Ходунки\С компа\FormForTest\FormForTest\bin\Release\FormForTest.exe
+D:\Ходунки\С компа\FormForTest\FormForTest\bin\Release\FormForTest.pdb
+D:\Ходунки\С компа\FormForTest\FormForTest\obj\Release\FormForTest.Form1.resources
+D:\Ходунки\С компа\FormForTest\FormForTest\obj\Release\SD.Properties.Resources.resources
+D:\Ходунки\С компа\FormForTest\FormForTest\obj\Release\FormForTest.csproj.GenerateResource.Cache
+D:\Ходунки\С компа\FormForTest\FormForTest\obj\Release\FormForTest.exe
+D:\Ходунки\С компа\FormForTest\FormForTest\obj\Release\FormForTest.pdb

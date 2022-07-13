@@ -1,0 +1,23 @@
+C:\Users\user\source\repos\Walker\Mobile_platform\bin\Debug\Mobile_platform.dll
+C:\Users\user\source\repos\Walker\Mobile_platform\bin\Debug\Mobile_platform.pdb
+C:\Users\user\source\repos\Walker\Mobile_platform\obj\Debug\Mobile_platform.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Walker\Mobile_platform\obj\Debug\Mobile_platform.dll
+C:\Users\user\source\repos\Walker\Mobile_platform\obj\Debug\Mobile_platform.pdb
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\bin\Debug\Mobile_platform.dll
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\bin\Debug\Mobile_platform.pdb
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\obj\Debug\Mobile_platform.csproj.AssemblyReference.cache
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\obj\Debug\Mobile_platform.csproj.CoreCompileInputs.cache
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\obj\Debug\Mobile_platform.dll
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\obj\Debug\Mobile_platform.pdb
+C:\Users\ЧСН\source\repos\Mobile_platform\bin\Debug\Mobile_platform.dll
+C:\Users\ЧСН\source\repos\Mobile_platform\bin\Debug\Mobile_platform.pdb
+C:\Users\ЧСН\source\repos\Mobile_platform\obj\Debug\Mobile_platform.csproj.AssemblyReference.cache
+C:\Users\ЧСН\source\repos\Mobile_platform\obj\Debug\Mobile_platform.csproj.CoreCompileInputs.cache
+C:\Users\ЧСН\source\repos\Mobile_platform\obj\Debug\Mobile_platform.dll
+C:\Users\ЧСН\source\repos\Mobile_platform\obj\Debug\Mobile_platform.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\bin\Debug\Mobile_platform.dll
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\bin\Debug\Mobile_platform.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\obj\Debug\Mobile_platform.csproj.AssemblyReference.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\obj\Debug\Mobile_platform.csproj.CoreCompileInputs.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\obj\Debug\Mobile_platform.dll
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\obj\Debug\Mobile_platform.pdb

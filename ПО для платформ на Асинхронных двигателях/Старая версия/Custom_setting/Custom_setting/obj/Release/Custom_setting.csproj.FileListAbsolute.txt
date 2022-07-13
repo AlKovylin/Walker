@@ -1,0 +1,9 @@
+D:\Ходунки\С компа\Custom_setting\Custom_setting\bin\Release\Custom_setting.exe.config
+D:\Ходунки\С компа\Custom_setting\Custom_setting\bin\Release\Custom_setting.exe
+D:\Ходунки\С компа\Custom_setting\Custom_setting\bin\Release\Custom_setting.pdb
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Release\Custom_setting.Form1.resources
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Release\Custom_setting.Properties.Resources.resources
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Release\Custom_setting.csproj.GenerateResource.Cache
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Release\Custom_setting.exe
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Release\Custom_setting.pdb
+D:\Ходунки\С компа\Custom_setting\Custom_setting\obj\Release\Custom_setting.csprojResolveAssemblyReference.cache

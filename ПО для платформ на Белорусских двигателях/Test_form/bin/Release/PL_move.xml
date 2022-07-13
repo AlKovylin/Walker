@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PL_move</name>
+    </assembly>
+    <members>
+        <member name="M:DllFunc.FuncForManager.PL_Start">
+            <summary>
+            Производит начальную инициализацию устройств. Платформа не выходит из парковочного положения.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Stop">
+            <summary>
+            Переводит платформу в парковочное состояние и производит корректное завершение работы устройств
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Kalibration">
+            <summary>
+            Выполняет запись показаний датчиков высоты и направления. Может быть вызвана только после успешного выполнения функции "Start".
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.ReadKalibr">
+            <summary>
+            Считывает данные калибровки датчиков из файла созданного утилитой
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Alarm(System.Boolean)">
+            <summary>
+            Блокирует платформу в текущем положении до поступления сигнала о снятии тревоги
+            true - тревога (аварийный останов), false - отмена аварии. Возвращает true в случае удачи
+            и Exception в случае не удачи.
+            </summary>
+            <param name=""></param>
+            <returns>true || Exception</returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Set_mode(System.Int32)">
+            <summary>
+            задаёт режим работы. 0 - рабочий режим, 1 - режим настройки и тестирования
+            возвращает true в случае успешного включения режима или код ошибки
+            различие режимов состоит в том, что в рабочем режиме нельзя менять настройки
+            По умолчанию Mode = 0.
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Set_angle_kren(System.Double,System.Double)">
+            <summary>
+            Установка ограничений крена. Диапазон значений -9,31 до 9,31.
+            </summary>
+            <param name="xmin"></param>
+            <param name="xmax"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Set_angle_tangag(System.Double,System.Double)">
+            <summary>
+            Установка ограничений тангажа. Диапазон значений -10,72 до 10,72.
+            </summary>
+            <param name="ymin"></param>
+            <param name="ymax"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Set_maxSpeed_deviation(System.Double)">
+            <summary>
+            Установить макс. скорость отклонения (наклона) мм*с. Минимальная скорость 9.127 мм*с, макс. 91.27 мм*с
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Set_maxSpeed_move(System.Double)">
+            <summary>
+            Установить макс. скорость перемещения (изменение положения по вертикали) мм*с. Минимальная скорость 9.127 мм*с, макс. 91.27 мм*с
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Set_Speed_centering(System.Double)">
+            <summary>
+            Установить скорость центрирования. Минимальная скорость 9.127 мм*с, макс. 91.27 мм*с
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Set_min_Speed_move(System.Double)">
+            <summary>
+            Устанавливает минимальную скорость перемещений платформы.
+            </summary>
+            <param name="s"></param>
+        </member>
+        <member name="M:DllFunc.FuncForManager.Refresh_settings">
+            <summary>
+            Читает текущие настройки из файла углов и скоростей.
+            </summary>
+        </member>
+        <member name="M:DllFunc.FuncForManager.GetSett">
+            <summary>
+            Возвращает текущие настройки.
+            </summary>
+            <returns>Мин. и Макс. значения тангажа и крена, уставки по скоростям.</returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Read_status">
+            <summary>
+            Функция не реализована.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Read_direction">
+            <summary>
+            Функция возвращает текущее направление игрока. Значения от 0 до 360
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Read_speed">
+            <summary>
+            Функция не реализована.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Read_height_position">
+            <summary>
+            Функция возвращает текущее положение пояса игрока по высоте. При калибровке присваивается значение 0.
+            Положительные показания - движение вверх, отрицательные значения - движение вниз. Ед.изм. мм.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Read_height">
+            <summary>
+            Возвращает текущее значение высоты подвижности
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Read_angle_kren">
+            <summary>
+            Возвращает текущее значение крена (наклон вправо-влево)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Read_angle_tangag">
+            <summary>
+            Возвращает текущее значение тангажа (наклон вперёд-назад)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.HKT">
+            <summary>
+            Обеспечивает обратный пересчёт крена, тангажа и высоты от текущих углов рычагов платформы.
+            </summary>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Move_kren(System.Double,System.Double)">
+            <summary>
+            Задаёт изменение крена на указанную величину и с заданной скоростью.
+            от -9,31 до 9,31; скорость от 9,127мм*с до 91,27мм*с
+            </summary>
+            <param name="x"></param>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Move_tangag(System.Double,System.Double)">
+            <summary>
+            Задаёт изменение крена на указанную величину и с заданной скоростью.
+            от -10,72 до 10,72; скорость от 9,127мм*с до 91,27мм*с
+            </summary>
+            <param name="y"></param>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Move_height(System.Double,System.Double)">
+            <summary>
+            Задаёт изменение высоты на указанную величину и с заданной скоростью.
+            от 91 до 191 (лучше работать в диапазоне от 95 до 185); скорость от 9,127мм*с до 91,27мм*с
+            </summary>
+            <param name="z"></param>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Move(System.Double,System.Double,System.Double)">
+            <summary>
+            Задаёт изменение по двум координатам на указанную величину и с заданной скоростью.
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.MoveStart(System.Double)">
+            <summary>
+            Выполняет подготовку к запуску новой итерации.
+            </summary>
+            <param name="speed"></param>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Auto_centr">
+            <summary>
+            Автоматического центрирования по вертикали
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllFunc.FuncForManager.PL_Auto_horizon">
+            <summary>
+            Автоматического приведения в горизонтальное состояние
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

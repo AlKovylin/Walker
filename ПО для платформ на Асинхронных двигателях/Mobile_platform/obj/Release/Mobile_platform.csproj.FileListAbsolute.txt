@@ -1,0 +1,30 @@
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\bin\Release\Mobile_platform.dll
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\bin\Release\Mobile_platform.pdb
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\obj\Release\Mobile_platform.csproj.AssemblyReference.cache
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\obj\Release\Mobile_platform.csproj.CoreCompileInputs.cache
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\obj\Release\Mobile_platform.dll
+C:\Users\ЧСН\Desktop\Walker\Mobile_platform\obj\Release\Mobile_platform.pdb
+C:\Users\ЧСН\source\repos\Mobile_platform\bin\Release\Mobile_platform.dll
+C:\Users\ЧСН\source\repos\Mobile_platform\bin\Release\Mobile_platform.pdb
+C:\Users\ЧСН\source\repos\Mobile_platform\obj\Release\Mobile_platform.csproj.AssemblyReference.cache
+C:\Users\ЧСН\source\repos\Mobile_platform\obj\Release\Mobile_platform.csproj.CoreCompileInputs.cache
+C:\Users\ЧСН\source\repos\Mobile_platform\obj\Release\Mobile_platform.dll
+C:\Users\ЧСН\source\repos\Mobile_platform\obj\Release\Mobile_platform.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\bin\Release\Mobile_platform.dll
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\bin\Release\Mobile_platform.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\obj\Release\Mobile_platform.csproj.AssemblyReference.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\obj\Release\Mobile_platform.csproj.CoreCompileInputs.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\obj\Release\Mobile_platform.dll
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Mobile_platform\obj\Release\Mobile_platform.pdb
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Рабочий софт\В одно решение для первых трёх\Walkers\Mobile_platform\obj\Release\Mobile_platform.csproj.AssemblyReference.cache
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Рабочий софт\В одно решение для первых трёх\Walkers\Mobile_platform\obj\Release\Mobile_platform.csproj.CoreCompileInputs.cache
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Рабочий софт\В одно решение для первых трёх\Walkers\Mobile_platform\obj\Release\Mobile_platform.dll
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Рабочий софт\В одно решение для первых трёх\Walkers\Mobile_platform\obj\Release\Mobile_platform.pdb
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Рабочий софт\В одно решение для первых трёх\Walkers\Mobile_platform\bin\Release\Mobile_platform.dll
+D:\КБ1\Проекты\Институт Телекоммуникаций\Ходунки\ПО\Рабочий софт\В одно решение для первых трёх\Walkers\Mobile_platform\bin\Release\Mobile_platform.pdb
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Асинхронных двигателях\Mobile_platform\bin\Release\Mobile_platform.dll
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Асинхронных двигателях\Mobile_platform\bin\Release\Mobile_platform.pdb
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Асинхронных двигателях\Mobile_platform\obj\Release\Mobile_platform.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Асинхронных двигателях\Mobile_platform\obj\Release\Mobile_platform.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Асинхронных двигателях\Mobile_platform\obj\Release\Mobile_platform.dll
+C:\Users\user\Desktop\20.06.22\ПО для платформ на Асинхронных двигателях\Mobile_platform\obj\Release\Mobile_platform.pdb

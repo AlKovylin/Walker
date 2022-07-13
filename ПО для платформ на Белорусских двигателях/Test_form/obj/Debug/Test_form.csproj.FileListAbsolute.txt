@@ -1,0 +1,77 @@
+C:\Users\user\source\repos\Walker\Test_form\obj\Debug\Test_form.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Walker\Test_form\obj\Debug\FormForTest.Form1.resources
+C:\Users\user\source\repos\Walker\Test_form\obj\Debug\SD.Properties.Resources.resources
+C:\Users\user\source\repos\Walker\Test_form\obj\Debug\Test_form.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Walker\Test_form\obj\Debug\Test_form.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Walker\Test_form\bin\Debug\FormForTest.exe.config
+C:\Users\user\source\repos\Walker\Test_form\bin\Debug\FormForTest.XML
+C:\Users\user\source\repos\Walker\Test_form\bin\Debug\FormForTest.exe
+C:\Users\user\source\repos\Walker\Test_form\bin\Debug\FormForTest.pdb
+C:\Users\user\source\repos\Walker\Test_form\bin\Debug\Mobile_platform.dll
+C:\Users\user\source\repos\Walker\Test_form\bin\Debug\PL_move.dll
+C:\Users\user\source\repos\Walker\Test_form\bin\Debug\Mobile_platform.pdb
+C:\Users\user\source\repos\Walker\Test_form\bin\Debug\PL_move.pdb
+C:\Users\user\source\repos\Walker\Test_form\obj\Debug\Test_form.csproj.CopyComplete
+C:\Users\user\source\repos\Walker\Test_form\obj\Debug\FormForTest.exe
+C:\Users\user\source\repos\Walker\Test_form\obj\Debug\FormForTest.pdb
+C:\Users\ЧСН\Desktop\Walker\Test_form\bin\Debug\FormForTest.exe.config
+C:\Users\ЧСН\Desktop\Walker\Test_form\bin\Debug\FormForTest.XML
+C:\Users\ЧСН\Desktop\Walker\Test_form\bin\Debug\FormForTest.exe
+C:\Users\ЧСН\Desktop\Walker\Test_form\bin\Debug\FormForTest.pdb
+C:\Users\ЧСН\Desktop\Walker\Test_form\bin\Debug\Mobile_platform.dll
+C:\Users\ЧСН\Desktop\Walker\Test_form\bin\Debug\PL_move.dll
+C:\Users\ЧСН\Desktop\Walker\Test_form\bin\Debug\Mobile_platform.pdb
+C:\Users\ЧСН\Desktop\Walker\Test_form\bin\Debug\PL_move.pdb
+C:\Users\ЧСН\Desktop\Walker\Test_form\obj\Debug\Test_form.csproj.AssemblyReference.cache
+C:\Users\ЧСН\Desktop\Walker\Test_form\obj\Debug\FormForTest.Form1.resources
+C:\Users\ЧСН\Desktop\Walker\Test_form\obj\Debug\SD.Properties.Resources.resources
+C:\Users\ЧСН\Desktop\Walker\Test_form\obj\Debug\Test_form.csproj.GenerateResource.cache
+C:\Users\ЧСН\Desktop\Walker\Test_form\obj\Debug\Test_form.csproj.CoreCompileInputs.cache
+C:\Users\ЧСН\Desktop\Walker\Test_form\obj\Debug\Test_form.csproj.CopyComplete
+C:\Users\ЧСН\Desktop\Walker\Test_form\obj\Debug\FormForTest.exe
+C:\Users\ЧСН\Desktop\Walker\Test_form\obj\Debug\FormForTest.pdb
+C:\Users\ЧСН\Desktop\Walker\Test_form\bin\Debug\Settings1.xml
+C:\Users\ЧСН\Desktop\Walker\Test_form\bin\Debug\FormForTest.exe.manifest
+C:\Users\ЧСН\Desktop\Walker\Test_form\bin\Debug\FormForTest.application
+C:\Users\ЧСН\Desktop\Walker\Test_form\obj\Debug\FormForTest.exe.manifest
+C:\Users\ЧСН\Desktop\Walker\Test_form\obj\Debug\FormForTest.application
+C:\Users\ЧСН\source\repos\Test_form\bin\Debug\FormForTest.exe.config
+C:\Users\ЧСН\source\repos\Test_form\bin\Debug\FormForTest.exe.manifest
+C:\Users\ЧСН\source\repos\Test_form\bin\Debug\FormForTest.application
+C:\Users\ЧСН\source\repos\Test_form\bin\Debug\FormForTest.XML
+C:\Users\ЧСН\source\repos\Test_form\bin\Debug\FormForTest.exe
+C:\Users\ЧСН\source\repos\Test_form\bin\Debug\FormForTest.pdb
+C:\Users\ЧСН\source\repos\Test_form\bin\Debug\Mobile_platform.dll
+C:\Users\ЧСН\source\repos\Test_form\bin\Debug\PL_move.dll
+C:\Users\ЧСН\source\repos\Test_form\bin\Debug\Mobile_platform.pdb
+C:\Users\ЧСН\source\repos\Test_form\bin\Debug\PL_move.pdb
+C:\Users\ЧСН\source\repos\Test_form\obj\Debug\Test_form.csproj.AssemblyReference.cache
+C:\Users\ЧСН\source\repos\Test_form\obj\Debug\FormForTest.Form1.resources
+C:\Users\ЧСН\source\repos\Test_form\obj\Debug\SD.Properties.Resources.resources
+C:\Users\ЧСН\source\repos\Test_form\obj\Debug\Test_form.csproj.GenerateResource.cache
+C:\Users\ЧСН\source\repos\Test_form\obj\Debug\Test_form.csproj.CoreCompileInputs.cache
+C:\Users\ЧСН\source\repos\Test_form\obj\Debug\FormForTest.exe.manifest
+C:\Users\ЧСН\source\repos\Test_form\obj\Debug\FormForTest.application
+C:\Users\ЧСН\source\repos\Test_form\obj\Debug\Test_form.csproj.CopyComplete
+C:\Users\ЧСН\source\repos\Test_form\obj\Debug\FormForTest.exe
+C:\Users\ЧСН\source\repos\Test_form\obj\Debug\FormForTest.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\bin\Debug\FormForTest.exe.config
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\bin\Debug\FormForTest.exe.manifest
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\bin\Debug\FormForTest.application
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\bin\Debug\FormForTest.XML
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\bin\Debug\FormForTest.exe
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\bin\Debug\FormForTest.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\bin\Debug\Mobile_platform.dll
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\bin\Debug\PL_move.dll
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\bin\Debug\Mobile_platform.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\bin\Debug\PL_move.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\obj\Debug\Test_form.csproj.AssemblyReference.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\obj\Debug\FormForTest.Form1.resources
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\obj\Debug\SD.Properties.Resources.resources
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\obj\Debug\Test_form.csproj.GenerateResource.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\obj\Debug\Test_form.csproj.CoreCompileInputs.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\obj\Debug\FormForTest.exe.manifest
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\obj\Debug\FormForTest.application
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\obj\Debug\Test_form.csproj.CopyComplete
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\obj\Debug\FormForTest.exe
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Test_form\obj\Debug\FormForTest.pdb

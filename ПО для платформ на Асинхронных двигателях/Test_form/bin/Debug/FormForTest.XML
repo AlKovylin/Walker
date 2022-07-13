@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FormForTest</name>
+    </assembly>
+    <members>
+        <member name="F:FormForTest.Demo.chCommand">
+            <summary>
+            Счётчик команд для движения по списку DemoCommands.
+            </summary>
+        </member>
+        <member name="F:FormForTest.Demo.chNumberOfTimes">
+            <summary>
+            Счётчик количества циклов таймера до начала выполнения следующей команды. 
+            Позволяет задать время выполнения команды с шагом равным интервалу таймера.
+            На данный момент с шагом 200мс.
+            </summary>
+        </member>
+        <member name="M:FormForTest.Demo.RunCommand">
+            <summary>
+            Запускает выполнение отдельной команды
+            </summary>
+        </member>
+        <member name="M:FormForTest.Form1.ReadСurrentSettings">
+            <summary>
+            Получает текущие настройки Мин. и Макс. значения тангажа и крена, уставки по скоростям.
+            Отображает полученные значения в соответствующих полях на форме.
+            </summary>
+        </member>
+        <member name="M:FormForTest.Form1.textBox_Exception_AddText(System.String)">
+            <summary>
+            Выводит сообщения об ошибках в окно формы.
+            </summary>
+            <param name="massege"></param>
+        </member>
+        <member name="M:FormForTest.Form1.TestStrToDouble(System.String,System.Double@)">
+            <summary>
+            Проверяет является ли введённый текст числом типа double
+            </summary>
+            <param name="argStr"></param>
+            <param name="argDouble"></param>
+            <returns>bool and double</returns>
+        </member>
+        <member name="M:FormForTest.Form1.ShowErrorNumberMessage">
+            <summary>
+            Выводит окно об ошибке ввода числового значения.
+            </summary>
+        </member>
+        <member name="F:FormForTest.Form1.components">
+            <summary>
+            Требуется переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:FormForTest.Form1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:FormForTest.Form1.InitializeComponent">
+            <summary>
+            Обязательный метод для поддержки конструктора - не изменяйте
+            содержимое данного метода при помощи редактора кода.
+            </summary>
+        </member>
+        <member name="M:FormForTest.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:SD.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:SD.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:SD.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,68 @@
+C:\Users\user\source\repos\Walker\Configuration\bin\Debug\Custom_setting.exe.config
+C:\Users\user\source\repos\Walker\Configuration\bin\Debug\Custom_setting.exe
+C:\Users\user\source\repos\Walker\Configuration\bin\Debug\Custom_setting.pdb
+C:\Users\user\source\repos\Walker\Configuration\obj\Debug\Configuration.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Walker\Configuration\obj\Debug\Custom_setting.Configuration.resources
+C:\Users\user\source\repos\Walker\Configuration\obj\Debug\Custom_setting.Properties.Resources.resources
+C:\Users\user\source\repos\Walker\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Walker\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Walker\Configuration\obj\Debug\Custom_setting.exe
+C:\Users\user\source\repos\Walker\Configuration\obj\Debug\Custom_setting.pdb
+C:\Users\user\source\repos\Walker\Configuration\bin\Debug\Mobile_platform.dll
+C:\Users\user\source\repos\Walker\Configuration\bin\Debug\Mobile_platform.pdb
+C:\Users\user\source\repos\Walker\Configuration\obj\Debug\Configuration.csproj.CopyComplete
+C:\Users\ЧСН\Desktop\Walker\Configuration\bin\Debug\Custom_setting.exe.config
+C:\Users\ЧСН\Desktop\Walker\Configuration\bin\Debug\Custom_setting.exe
+C:\Users\ЧСН\Desktop\Walker\Configuration\bin\Debug\Custom_setting.pdb
+C:\Users\ЧСН\Desktop\Walker\Configuration\bin\Debug\Mobile_platform.dll
+C:\Users\ЧСН\Desktop\Walker\Configuration\bin\Debug\Mobile_platform.pdb
+C:\Users\ЧСН\Desktop\Walker\Configuration\obj\Debug\Configuration.csproj.AssemblyReference.cache
+C:\Users\ЧСН\Desktop\Walker\Configuration\obj\Debug\Custom_setting.Configuration.resources
+C:\Users\ЧСН\Desktop\Walker\Configuration\obj\Debug\Custom_setting.Properties.Resources.resources
+C:\Users\ЧСН\Desktop\Walker\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+C:\Users\ЧСН\Desktop\Walker\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\ЧСН\Desktop\Walker\Configuration\obj\Debug\Configuration.csproj.CopyComplete
+C:\Users\ЧСН\Desktop\Walker\Configuration\obj\Debug\Custom_setting.exe
+C:\Users\ЧСН\Desktop\Walker\Configuration\obj\Debug\Custom_setting.pdb
+C:\Users\ЧСН\Desktop\Walker\Configuration\bin\Debug\Kalibr.xml
+C:\Users\ЧСН\Desktop\Walker\Configuration\bin\Debug\Settings.xml
+C:\Users\ЧСН\Desktop\Walker\Configuration\bin\Debug\Custom_setting.exe.manifest
+C:\Users\ЧСН\Desktop\Walker\Configuration\bin\Debug\Custom_setting.application
+C:\Users\ЧСН\Desktop\Walker\Configuration\obj\Debug\Custom_setting.exe.manifest
+C:\Users\ЧСН\Desktop\Walker\Configuration\obj\Debug\Custom_setting.application
+C:\Users\ЧСН\source\repos\Configuration\bin\Debug\Kalibr.xml
+C:\Users\ЧСН\source\repos\Configuration\bin\Debug\Custom_setting.exe.config
+C:\Users\ЧСН\source\repos\Configuration\bin\Debug\Custom_setting.exe.manifest
+C:\Users\ЧСН\source\repos\Configuration\bin\Debug\Custom_setting.application
+C:\Users\ЧСН\source\repos\Configuration\bin\Debug\Custom_setting.exe
+C:\Users\ЧСН\source\repos\Configuration\bin\Debug\Custom_setting.pdb
+C:\Users\ЧСН\source\repos\Configuration\bin\Debug\Mobile_platform.dll
+C:\Users\ЧСН\source\repos\Configuration\bin\Debug\Mobile_platform.pdb
+C:\Users\ЧСН\source\repos\Configuration\obj\Debug\Configuration.csproj.AssemblyReference.cache
+C:\Users\ЧСН\source\repos\Configuration\obj\Debug\Custom_setting.Configuration.resources
+C:\Users\ЧСН\source\repos\Configuration\obj\Debug\Custom_setting.Properties.Resources.resources
+C:\Users\ЧСН\source\repos\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+C:\Users\ЧСН\source\repos\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\ЧСН\source\repos\Configuration\obj\Debug\Custom_setting.exe.manifest
+C:\Users\ЧСН\source\repos\Configuration\obj\Debug\Custom_setting.application
+C:\Users\ЧСН\source\repos\Configuration\obj\Debug\Configuration.csproj.CopyComplete
+C:\Users\ЧСН\source\repos\Configuration\obj\Debug\Custom_setting.exe
+C:\Users\ЧСН\source\repos\Configuration\obj\Debug\Custom_setting.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\bin\Debug\Kalibr.xml
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\bin\Debug\Custom_setting.exe.config
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\bin\Debug\Custom_setting.exe.manifest
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\bin\Debug\Custom_setting.application
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\bin\Debug\Custom_setting.exe
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\bin\Debug\Custom_setting.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\bin\Debug\Mobile_platform.dll
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\bin\Debug\Mobile_platform.pdb
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\obj\Debug\Configuration.csproj.AssemblyReference.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\obj\Debug\Custom_setting.Configuration.resources
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\obj\Debug\Custom_setting.Properties.Resources.resources
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\obj\Debug\Custom_setting.exe.manifest
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\obj\Debug\Custom_setting.application
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\obj\Debug\Configuration.csproj.CopyComplete
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\obj\Debug\Custom_setting.exe
+\\FILESERVER2\electrics\Ходунки\30.11.21\ПО для платформ на Белорусских двигателях\Configuration\obj\Debug\Custom_setting.pdb
